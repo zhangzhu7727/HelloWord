@@ -18,6 +18,7 @@ import javafish.clients.opc.variant.VariantList;
 public class SynchReadWriteExample {
 
   /**
+   * 
    * @param args
    * @throws InterruptedException 
    */
